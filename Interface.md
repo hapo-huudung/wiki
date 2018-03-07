@@ -1,6 +1,6 @@
-#Interface 
+# Interface 
 
-##Interface là gì?
+## Interface là gì?
 
 - Interface là một Template, nó không phải là một đối tượng mà chỉ là một bề nhìn bên ngoài mà nhìn vào đó ta có thể biết được tất cả hàm của đối tượng implement nó
  
@@ -102,7 +102,7 @@
         }   
          ````
     
-###Tính kế thừa trong Interface 
+### Tính kế thừa trong Interface 
 
 - Interface không phải là một lớp nhưng cũng có tính chất kế thừa
     - 1 interface A kế thừa 1 interface B thì lúc này đối tượng nào inplement lớp A thì nó phải định nghĩa các hàm mà cả 2 lớp A và B đã khai báo

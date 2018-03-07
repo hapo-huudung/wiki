@@ -1,13 +1,13 @@
-#Abstract
+# Abstract
 
-##Abstract là gì?
+## Abstract là gì?
 
 * Lớp trìu tượng trước tiên nó chính là 1 lớp, nhưng nó được gọi là lớp trìu tượng bởi vì:
     * Các lớp khác khi kế thừa lớp trìu tượng **phải** định nghĩa các phương thức trìu tượng ấy
     
     * 1 Class chỉ kế thừa 1 Abstract class 
      
-###Một số lưu ý khi sử dụng Abstract class
+### Một số lưu ý khi sử dụng Abstract class
 * Tất cả các phương thức của lớp abstract đều phải được khai báo là abstract và phải ở mức protected và public, không được ở mức private
 
 * Lớp Abstract có thể có thuộc tính nhưng thuộc tính không được khai báo là abstract, và bạn không thể khởi tạo một biến của lớp Abstract được
